@@ -1,5 +1,5 @@
 # baidu-remote-sensing
-百度遥感比赛，前百分之二的实验方案
+百度遥感比赛，前百分之一的实验方案
 
 multimodal_train_val.py	multimodal_train_val1.py  multimodal_train_val2.py	multimodal_train_val3.py分别对多个模型进行训练，
 其中有使用单GPU和多GPU
